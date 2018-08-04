@@ -2,10 +2,40 @@
 var allProjects = {
 
     project1: {
+        projectUrl:"https://juicychewc.github.io/unit-4-game/",
+        projectDescription:"Simple RPG game",
+        projectPicture:"assets/images/zergling.png"
+    },
+
+    project2: {
         projectUrl:"https://gavbax99.github.io/Project1/",
         projectDescription:"Music App",
         projectPicture:"assets/images/MuseAppCover.jpg"
     },
+
+    project3: {
+        projectUrl:"https://juicychewc.github.io/ajax-api/",
+        projectDescription:"Gif generator",
+        projectPicture:"assets/images/bond.jpg"
+    },
+
+    project4: {
+        projectUrl:"https://juicychewc.github.io/TriviaGame/",
+        projectDescription:"Trivia Game",
+        projectPicture:"assets/images/twitchlogo.jpg"
+    },
+
+    project5: {
+        projectUrl:"https://juicychewc.github.io/psychic-game/",
+        projectDescription:"Letter Guess Game",
+        projectPicture:"assets/images/mindgames.jpg"
+    },
+
+    project6: {
+        projectUrl:"https://juicychewc.github.io/trainScheduler/",
+        projectDescription:"Train Scheduler",
+        projectPicture:"assets/images/thomas.jpg"
+    }
 };
 
 var firstCard = $("#contentsGoHere");
