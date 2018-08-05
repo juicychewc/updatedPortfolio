@@ -4,7 +4,7 @@
     }
 
 header {
-    background: #ffffff;
+    background: black;
     border-color: #cccccc;
     position: fixed;
     width: 100%;
@@ -22,7 +22,7 @@ footer {
     width: 100%;
     position: fixed;
     color: white;
-    text-align: center;    
+    text-align: center;   
 }
 
 body {
@@ -43,6 +43,7 @@ section {
 
 article {
     margin: 20px;
+    margin-bottom: 100px;
     color: #777777;
     border-top: 1px solid;
     padding: 20px;
@@ -85,7 +86,7 @@ textarea {
 
 .myheader {
     color: #4aaaa5;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bolder;
     padding: 20px;
 }
@@ -129,6 +130,16 @@ nav a:hover {
 .portfolioLinkImage {
     width: 300px;
     height: 300px;
+}
+
+.resourceLinks {
+    height: 30px;
+    width: 30px;
+    margin: auto;
+}
+
+#linkedIn {
+    margin-right: 20px;
 }
 
 .cleared {
